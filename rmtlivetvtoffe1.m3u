@@ -3,6 +3,32 @@
 # This m3u presented by t.me/+cQ0cDYY4o9MzYTM9
 # API from byte-capsule
 
-#EXTINF:-1 group-title="TOFFEE LIVE " tvg-chno="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/emon-g999/RMT-LIVE-TV-/3ebac9348a6a86ae043458ecabf99b5989a2e404/2459853_ico%20(1).png", RMT LIVE TV
+#EXTINF:-1 group-title="RMT LIVE " tvg-chno="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/emon-g999/RMT-LIVE-TV-/3ebac9348a6a86ae043458ecabf99b5989a2e404/2459853_ico%20(1).png", RMT LIVE TV
 https://github.com/emon-g999/RMT-LIVE-TV-/raw/f2cb89ba303e093d65ba89ecf375ca9c18bac701/lv_0_20240905033916.mp4
 
+#EXTINF:-1 tvg-id=472 tvg-name="And TV HD" tvg-logo="http://14.102.123.50:5001/jtvimage/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD
+http://14.102.123.50:5001/live/472.m3u8
+#EXTINF:-1 tvg-id=473 tvg-name="Zee Anmol" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Anmol.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee Anmol
+http://14.102.123.50:5001/live/473.m3u8
+#EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
+http://14.102.123.50:5001/live/474.m3u8
+#EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
+http://14.102.123.50:5001/live/476.m3u8
+#EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://14.102.123.50:5001/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
+http://14.102.123.50:5001/live/479.m3u8
+#EXTINF:-1 tvg-id=481 tvg-name="Epic" tvg-logo="http://14.102.123.50:5001/jtvimage/Epic_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Epic
+http://14.102.123.50:5001/live/481.m3u8
+#EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
+http://14.102.123.50:5001/live/482.m3u8
+#EXTINF:-1 tvg-id=483 tvg-name="Sony MAX2" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
+http://14.102.123.50:5001/live/483.m3u8
+#EXTINF:-1 tvg-id=484 tvg-name="Zee Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema
+http://14.102.123.50:5001/live/484.m3u8
+#EXTINF:-1 tvg-id=485 tvg-name="Enterr 10" tvg-logo="http://14.102.123.50:5001/jtvimage/Enterr_10.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Enterr 10
+http://14.102.123.50:5001/live/485.m3u8
+#EXTINF:-1 tvg-id=486 tvg-name="Bhojpuri Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/Bhojpuri_Cinema.png" tvg-language="Bhojpuri" tvg-type="Movies" group-title="Movies", Bhojpuri Cinema
+http://14.102.123.50:5001/live/486.m3u8
+#EXTINF:-1 tvg-id=487 tvg-name="Zee Bollywood" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood
+http://14.102.123.50:5001/live/487.m3u8
+#EXTINF:-1 tvg-id=488 tvg-name="Zee Action" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action
+http://14.102.123.50:5001/live/488.m3u8
