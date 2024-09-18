@@ -100,7 +100,7 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 https://livess.ncare.live/live-orgin/Btv-g.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png" group-title="BANGLADESH", BTV WORLD
-https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=BaA3qagBbjasdMoSegrxzQ&expires=1726463621&user=ef71b837ceef4cd18a6cf7069722d83d
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rQmTNKf/20240907-003057.png" group-title="BANGLADESH", SANGSAD TV
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/playlist.m3u8?md5=DOoisfJr_4QV1gZ1duO_TA&expires=1726463596&user=ef71b837ceef4cd18a6cf7069722d83d
